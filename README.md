@@ -61,9 +61,7 @@ Key goals:
 Ranjan-Labs/
 ├─ src/                  # Source code (frontend & backend)
 │  ├─ components/        # Reusable UI components
-│  ├─ hooks/             # Custom React hooks
 │  ├─ pages/             # Page-level components
-├─ ml/                   # AI/ML models and experiments
 ├─ data/                 # Datasets and preprocessing scripts
 ├─ public/               # Static assets
 ├─ scripts/              # Automation and utilities
